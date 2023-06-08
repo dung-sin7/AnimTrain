@@ -421,7 +421,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0, z: -5}
+  m_LocalPosition: {x: 0, y: -0, z: -4}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -580,12 +580,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1868118872}
-  cameraPivot: {fileID: 0}
-  cameraFollowSpeed: 0.2
+  cameraPivot: {fileID: 1658163826}
+  cameraFollowSpeed: 0.5
   lookAngle: 0
   pivotAngle: 0
-  camaraLookSpeed: 0.2
-  camaraPivotSpeed: 0.2
+  camaraLookSpeed: 0.5
+  camaraPivotSpeed: 0.5
 --- !u!4 &1908411746
 Transform:
   m_ObjectHideFlags: 0
